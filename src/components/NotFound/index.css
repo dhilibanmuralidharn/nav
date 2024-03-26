@@ -1,0 +1,24 @@
+.NotFound-container {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.NotFound-logo {
+  width: 100%;
+  max-width: 200px;
+}
+.NotFound-dark {
+  background-color: black;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.text-color {
+  color: white;
+}

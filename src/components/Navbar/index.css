@@ -1,0 +1,43 @@
+.nav-contianer {
+  padding: 20px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #dcdcdc;
+}
+.logo {
+  width: 100%;
+  max-width: 60px;
+}
+p {
+  font-family: Cambria, Cochin;
+  font-size: 20px;
+  color: #334155;
+  text-decoration: none;
+}
+.nav-list {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  list-style-type: none;
+}
+.dark-theme {
+  background-color: #333333;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #dcdcdc;
+}
+.List-theme {
+  color: #ffffff;
+}
+.theme-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
